@@ -6,3 +6,8 @@ Yifan Yang,
 Hao Wang*
 (*Corresponding Author)
 <br>
+<br>
+This repository provides the implementation of EAGLE. Please follow the instructions and have fun!
+
+
+## Flowchart Overview
