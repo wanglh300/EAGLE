@@ -25,3 +25,15 @@ Visualization of the entire flowchart of our method. A residual block is placed 
 
 ## References
 - PointFlow: https://github.com/stevenygd/PointFlow
+
+## Cite
+Please cite our work if you find it useful:
+```latex
+@article{wang2025eagle,
+  title={EAGLE: Contextual Point Cloud Generation via Adaptive Continuous Normalizing Flow with Self-Attention},
+  author={Wang, Linhao and Zhang, Qichang and Yang, Yifan and Wang, Hao},
+  journal={arXiv preprint arXiv:2503.13479},
+  year={2025}
+}
+```
+
