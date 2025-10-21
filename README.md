@@ -3,9 +3,9 @@
 [Linhao Wang](https://wanglh300.github.io), 
 [Qichang Zhang](https://openreview.net/profile?id=~Qichang_Zhang1), 
 [Yifan Yang](https://openreview.net/profile?id=~Yifan_Yang28), 
-[Hao Wang$\ddag$](https://scholar.google.com.hk/citations?user=VaryZeIAAAAJ&hl=zh-CN)
-[Ye Su$\dag$]
-($\dag$Corresponding Author, $\ddag$Project leader)
+[Hao Wang‡](https://scholar.google.com.hk/citations?user=VaryZeIAAAAJ&hl=zh-CN)
+[Ye Su†](https://ieeexplore.ieee.org/author/37088338245)
+(†Corresponding Author, ‡Project leader)
 
 We greatly appreciate the contribution of [PointFlow](https://github.com/stevenygd/PointFlow), as our work is based on it. You can refer to it in order to reproduce the project. The repository provides the introduction of EAGLE. Have fun!
 
